@@ -1,0 +1,17 @@
+
+.minMaxWidth (@min; @max; @width:100%) {
+	min-width: @min;
+	max-width: @max;
+	width: @width;
+}
+
+.wrap {
+	.minMaxWidth(50%, 80%);
+
+	margin: auto;
+	border: 1px solid #323232;
+}
+
+label {
+	display: block;	
+}

@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Jan Kowalski",
+      "birthDate": "1987-29-17"
+    },
+    {
+      "id": 2,
+      "name": "Janina Głuchowska",
+      "birthDate": "2002-02-12"
+    },
+    {
+      "id": 3,
+      "name": "Antnoni Słonina",
+      "birthDate": "1952-07-15"
+    },
+    {
+      "id": 4,
+      "name": "Krystna Czubówna",
+      "birthDate": "1961-02-17"
+    }
+  ]
+}
